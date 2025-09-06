@@ -1,15 +1,5 @@
 /* Notebook-inspired dark theme */
-:root{
-  --bg:#0f0f10;
-  --paper:#141519;
-  --ink:#e6e6e6;
-  --muted:#a8acb3;
-  --accent:#bb2b2b;
-  --accent-2:#3a7bd5;
-  --card:#1a1c22;
-  --line:#2a2d35;
-  --shadow:rgba(0,0,0,.3);
-}
+
 
 *{box-sizing:border-box}
 html,body{height:100%}
